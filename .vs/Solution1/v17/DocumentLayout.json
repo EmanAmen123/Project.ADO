@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|e:\\iti\\adv c#\\ado\\layers\\solution1\\ado.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|solutionrelative:ado.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|e:\\iti\\adv c#\\ado\\layers\\solution1\\ado.presentation\\admincategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|solutionrelative:ado.presentation\\admincategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|e:\\iti\\adv c#\\ado\\layers\\solution1\\ado.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|solutionrelative:ado.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|e:\\iti\\adv c#\\ado\\layers\\solution1\\ado.presentation\\admincategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|solutionrelative:ado.presentation\\admincategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|e:\\iti\\adv c#\\ado\\layers\\solution1\\ado.presentation\\adminusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|solutionrelative:ado.presentation\\adminusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|e:\\iti\\adv c#\\ado\\layers\\solution1\\ado.presentation\\adminusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|solutionrelative:ado.presentation\\adminusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F12414-1201-4AEA-8D2C-0296C472DD75}|bussnise_layer\\bussnise_layer.csproj|e:\\iti\\adv c#\\ado\\layers\\solution1\\bussnise_layer\\favuratesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F12414-1201-4AEA-8D2C-0296C472DD75}|bussnise_layer\\bussnise_layer.csproj|solutionrelative:bussnise_layer\\favuratesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|e:\\iti\\adv c#\\ado\\layers\\solution1\\ado.presentation\\favurates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|solutionrelative:ado.presentation\\favurates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|e:\\iti\\adv c#\\ado\\layers\\solution1\\ado.presentation\\favurates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F3F554-D52F-4D98-932E-E174E8D72610}|ado.presentation\\ado.presentation.csproj|solutionrelative:ado.presentation\\favurates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "adminUsers.cs",
+              "DocumentMoniker": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\adminUsers.cs",
+              "RelativeDocumentMoniker": "ado.presentation\\adminUsers.cs",
+              "ToolTip": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\adminUsers.cs",
+              "RelativeToolTip": "ado.presentation\\adminUsers.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:08:43.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "adminUsers.cs [Design]",
+              "DocumentMoniker": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\adminUsers.cs",
+              "RelativeDocumentMoniker": "ado.presentation\\adminUsers.cs",
+              "ToolTip": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\adminUsers.cs [Design]",
+              "RelativeToolTip": "ado.presentation\\adminUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:08:38.757Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "ado.presentation\\Form1.cs",
+              "ToolTip": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\Form1.cs",
+              "RelativeToolTip": "ado.presentation\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:06:37.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "ado.presentation\\Form1.cs",
+              "ToolTip": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\Form1.cs [Design]",
+              "RelativeToolTip": "ado.presentation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:06:34.383Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "adminCategories.cs",
+              "DocumentMoniker": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\adminCategories.cs",
+              "RelativeDocumentMoniker": "ado.presentation\\adminCategories.cs",
+              "ToolTip": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\adminCategories.cs",
+              "RelativeToolTip": "ado.presentation\\adminCategories.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:49:01.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adminCategories.cs [Design]",
+              "DocumentMoniker": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\adminCategories.cs",
+              "RelativeDocumentMoniker": "ado.presentation\\adminCategories.cs",
+              "ToolTip": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\adminCategories.cs [Design]",
+              "RelativeToolTip": "ado.presentation\\adminCategories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:48:56.451Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FavuratesServices.cs",
+              "DocumentMoniker": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\bussnise_layer\\FavuratesServices.cs",
+              "RelativeDocumentMoniker": "bussnise_layer\\FavuratesServices.cs",
+              "ToolTip": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\bussnise_layer\\FavuratesServices.cs",
+              "RelativeToolTip": "bussnise_layer\\FavuratesServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:47:08.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "favurates.cs",
+              "DocumentMoniker": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\favurates.cs",
+              "RelativeDocumentMoniker": "ado.presentation\\favurates.cs",
+              "ToolTip": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\favurates.cs",
+              "RelativeToolTip": "ado.presentation\\favurates.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAEQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:12:54.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "favurates.cs [Design]",
+              "DocumentMoniker": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\favurates.cs",
+              "RelativeDocumentMoniker": "ado.presentation\\favurates.cs",
+              "ToolTip": "E:\\iti\\adv c#\\ADO\\layers\\Solution1\\ado.presentation\\favurates.cs [Design]",
+              "RelativeToolTip": "ado.presentation\\favurates.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:12:33.561Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

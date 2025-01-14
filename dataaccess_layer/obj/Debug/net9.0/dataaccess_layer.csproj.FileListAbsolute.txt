@@ -1,0 +1,12 @@
+E:\iti\adv c#\ADO\layers\Solution1\dataaccess_layer\bin\Debug\net9.0\dataaccess_layer.deps.json
+E:\iti\adv c#\ADO\layers\Solution1\dataaccess_layer\bin\Debug\net9.0\dataaccess_layer.dll
+E:\iti\adv c#\ADO\layers\Solution1\dataaccess_layer\bin\Debug\net9.0\dataaccess_layer.pdb
+E:\iti\adv c#\ADO\layers\Solution1\dataaccess_layer\obj\Debug\net9.0\dataaccess_layer.csproj.AssemblyReference.cache
+E:\iti\adv c#\ADO\layers\Solution1\dataaccess_layer\obj\Debug\net9.0\dataaccess_layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\adv c#\ADO\layers\Solution1\dataaccess_layer\obj\Debug\net9.0\dataaccess_layer.AssemblyInfoInputs.cache
+E:\iti\adv c#\ADO\layers\Solution1\dataaccess_layer\obj\Debug\net9.0\dataaccess_layer.AssemblyInfo.cs
+E:\iti\adv c#\ADO\layers\Solution1\dataaccess_layer\obj\Debug\net9.0\dataaccess_layer.csproj.CoreCompileInputs.cache
+E:\iti\adv c#\ADO\layers\Solution1\dataaccess_layer\obj\Debug\net9.0\dataaccess_layer.dll
+E:\iti\adv c#\ADO\layers\Solution1\dataaccess_layer\obj\Debug\net9.0\refint\dataaccess_layer.dll
+E:\iti\adv c#\ADO\layers\Solution1\dataaccess_layer\obj\Debug\net9.0\dataaccess_layer.pdb
+E:\iti\adv c#\ADO\layers\Solution1\dataaccess_layer\obj\Debug\net9.0\ref\dataaccess_layer.dll

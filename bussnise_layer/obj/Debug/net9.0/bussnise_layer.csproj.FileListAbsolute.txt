@@ -1,0 +1,15 @@
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\bin\Debug\net9.0\bussnise_layer.deps.json
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\bin\Debug\net9.0\bussnise_layer.dll
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\bin\Debug\net9.0\bussnise_layer.pdb
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\bin\Debug\net9.0\dataaccess_layer.dll
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\bin\Debug\net9.0\dataaccess_layer.pdb
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\obj\Debug\net9.0\bussnise_layer.csproj.AssemblyReference.cache
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\obj\Debug\net9.0\bussnise_layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\obj\Debug\net9.0\bussnise_layer.AssemblyInfoInputs.cache
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\obj\Debug\net9.0\bussnise_layer.AssemblyInfo.cs
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\obj\Debug\net9.0\bussnise_layer.csproj.CoreCompileInputs.cache
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\obj\Debug\net9.0\bussnise.7120EE73.Up2Date
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\obj\Debug\net9.0\bussnise_layer.dll
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\obj\Debug\net9.0\refint\bussnise_layer.dll
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\obj\Debug\net9.0\bussnise_layer.pdb
+E:\iti\adv c#\ADO\layers\Solution1\bussnise_layer\obj\Debug\net9.0\ref\bussnise_layer.dll

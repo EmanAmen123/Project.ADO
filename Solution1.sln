@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ado.presentation", "ado.presentation\ado.presentation.csproj", "{81F3F554-D52F-4D98-932E-E174E8D72610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bussnise_layer", "bussnise_layer\bussnise_layer.csproj", "{71F12414-1201-4AEA-8D2C-0296C472DD75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataaccess_layer", "dataaccess_layer\dataaccess_layer.csproj", "{B281D7EC-BFEC-4B84-B77B-9C7E68BD7A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F3F554-D52F-4D98-932E-E174E8D72610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F3F554-D52F-4D98-932E-E174E8D72610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F3F554-D52F-4D98-932E-E174E8D72610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F3F554-D52F-4D98-932E-E174E8D72610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F12414-1201-4AEA-8D2C-0296C472DD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F12414-1201-4AEA-8D2C-0296C472DD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F12414-1201-4AEA-8D2C-0296C472DD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F12414-1201-4AEA-8D2C-0296C472DD75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B281D7EC-BFEC-4B84-B77B-9C7E68BD7A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B281D7EC-BFEC-4B84-B77B-9C7E68BD7A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B281D7EC-BFEC-4B84-B77B-9C7E68BD7A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B281D7EC-BFEC-4B84-B77B-9C7E68BD7A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
