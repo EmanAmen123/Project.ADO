@@ -8,7 +8,7 @@ Users Table: Stores user credentials for login and registration.
 
 Users (Userld, Username, Password, Email, Age, Address, Role-Admin or User)
 
-Categories Table: Stores product categories (e.g., Electronics, Clothing).
+Categories Table: Stores product categories .
 
 Categories (Categoryld, CategoryName)
 
